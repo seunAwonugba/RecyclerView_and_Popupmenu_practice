@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeId"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home">
+
+    </item>
+
+    <item
+        android:id="@+id/peopleId"
+        android:enabled="true"
+        android:icon="@drawable/ic_people"
+        android:title="@string/people">
+
+    </item>
+
+    <item
+        android:id="@+id/giftId"
+        android:enabled="true"
+        android:icon="@drawable/ic_gift"
+        android:title="@string/gift">
+
+    </item>
+
+</menu>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Recycler_View_Project</string>
+    <string name="textView">Full Name</string>
+    <string name="allFragmentView">All</string>
+    <string name="home">Home</string>
+    <string name="people">People</string>
+    <string name="gift">Gifts</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
